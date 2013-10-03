@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Twitter Card Support
+image: /assets/2013-10-04-twitter-card.png
+
 ---
 
 Tweets with links to ForYogi retreats just got a whole lot prettier. By supporting Twitter Cards on ForYogi, any tweet containing a link to a yoga retreat will provide more context when viewed on Twitter.com. Here's an example:  
