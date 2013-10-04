@@ -1,4 +1,6 @@
 name: Blog @ForYogi
 markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 pygments: true
 port: 5000
