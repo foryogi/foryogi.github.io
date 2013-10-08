@@ -8,3 +8,4 @@ redcarpet:
   extensions: ["strikethrough"]
 pygments: true
 port: 5000
+exclude: ["vendor"]
