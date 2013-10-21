@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "ForYogi Added Support for Rich Pin on Pinterest"
-image: assets/2013-10-19-pinterest.png
+image: /assets/2013-10-21-rich-pin.png
 
 ---
+![Twitter Card]({{ site.url }}/assets/2013-10-04-twitter-card.png)
 
-![ForYogi on Pinterest]({{ site.url }}/assets/2013-10-19-pinterest.png)
+![ForYogi on Pinterest]({{ site.url }}/assets/2013-10-21-rich-pin.png)
 
 [Pinterest](http://pinterest.com) recently added [rich pins](http://developers.pinterest.com/rich_pins/) to better market business.  Rich pins contain more information about product offers including price and availability.  ForYogi has added the support of rich pins for [retreats](https://foryogi.com/retreats/new), [workshops](https://foryogi.com/workshops/new), and [teacher trainings](https://foryogi.com/teacher_trainings/new).  When someone pins a yoga retreat from ForYogi, more information about that retreat will be displayed to user than a 'regular' pin:
 
