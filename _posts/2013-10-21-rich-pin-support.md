@@ -4,7 +4,6 @@ title: "ForYogi Added Support for Rich Pin on Pinterest"
 image: /assets/2013-10-21-rich-pin.png
 
 ---
-![Twitter Card]({{ site.url }}/assets/2013-10-04-twitter-card.png)
 
 ![ForYogi on Pinterest]({{ site.url }}/assets/2013-10-21-rich-pin.png)
 
