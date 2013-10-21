@@ -162,3 +162,28 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+/* footer */
+.soical-icon {
+    color: grey;
+}
+
+a.unstyled {
+  color: grey;
+}
+
+a.unstyled:link {
+  text-decoration: none;
+}
+
+a.unstyled:visited {
+  text-decoration: none
+}
+
+a.unstyled:hover {
+  text-decoration: none
+}
+
+a.unstyled:active {
+  text-decoration: none;
+}
