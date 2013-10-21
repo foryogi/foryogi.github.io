@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ForYogi Added Support for Rich Pin on Pinterest
+title: "ForYogi Added Support for Rich Pin on Pinterest"
 image: assets/2013-10-19-pinterest.png
 
 ---
