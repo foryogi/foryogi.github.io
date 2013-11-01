@@ -5,7 +5,7 @@ image: assets/2013-11-01-status-update.png
 
 ---
 
-![ForYogi Status Update]({{ site.url }}/assets/2013-11-01-status-update.png)
+![ForYogi Status Update]({{ site.url }}/assets/2013-11-01-status-update.png){: .status}
 
 On October 30th, one of our data centers located in the east region of US had a disruption of service which inadvertently affected the part of the operation of ForYogi website.  While the engineers of our vendor worked hard on restoring the service, we notified our users on Twitter and with emails with site updates.  However, we would like to make our service availabilty more transparent and perform service updates in an automated fashion.
 
