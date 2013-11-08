@@ -13,6 +13,6 @@ Your Class Planner saves you time! Instead of searching studio schedules to find
 
 Let’s get started: 
 
-- Step 1: Signup/login at [ForYogi][https://foryogi.com]
+- Step 1: Signup/login at [ForYogi](https://foryogi.com)
 - Step 2: Favorite some teachers! On each teacher's profile page, click on the empty pink heart to favorite that teacher.  
 - Step 3: Discover new classes and studios with your favorite teachers!
