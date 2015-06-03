@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>ForYogi Blog</title>
+    <link>http://blog.foryogi.com</link>
+    <description>Official blog of ForYogi.com</description>
+    <pubDate>Wed, 03 Jun 2015 00:00:00 -0700</pubDate>
+    <item>
+      <title>Star Ratings In Search Results</title>
+      <link>http://blog.foryogi.com/2015/06/03/star-rating-in-search-results.html</link>
+      <description>
+&lt;p&gt;Have you seen the star-ratings in search results from search engines like Bing and Google? Star-rating helps people to better understand the quality of service provided by business venues. Popular websites such as Yelp have been surfacing star-rating in search results consistent with the information available on their websites. ForYogi has also implemented this functionality and here is a screen capture of what Bing shows when a user searchs for “Melissa Capezzuto Yoga”.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 -0700</pubDate>
+      <dc:date>2015-06-03T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Can You Teach Yoga Teachers Programming</title>
+      <link>http://blog.foryogi.com/2015/06/02/can-you-teach-yoga-teachers-programming.html</link>
+      <description>
+&lt;p&gt;If yoga teachers can teach you yoga, then you can teach yoga teachers programming.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 -0700</pubDate>
+      <dc:date>2015-06-02T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>5 Minutes to Get Your Class Planner  </title>
+      <link>http://blog.foryogi.com/2013/11/08/your-personalized-calendar.html</link>
+      <description>
+&lt;p&gt;&lt;img src=&quot;/assets/2013-11-07-foryogi-user-favorite-classes.png)&lt;/p&gt;
+</description>
+      <pubDate>Fri, 08 Nov 2013 00:00:00 -0800</pubDate>
+      <dc:date>2013-11-08T00:00:00-08:00</dc:date>
+    </item>
+    <item>
+      <title>Real-time Status Update</title>
+      <link>http://blog.foryogi.com/2013/11/01/status-updates.html</link>
+      <description>
+&lt;p&gt;&lt;img src=&quot;/assets/2013-11-01-status-update.png)&lt;/p&gt;
+</description>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
+      <dc:date>2013-11-01T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>ForYogi Added Support for Rich Pin on Pinterest</title>
+      <link>http://blog.foryogi.com/2013/10/21/rich-pin-support.html</link>
+      <description>
+&lt;p&gt;&lt;img src=&quot;/assets/2013-10-21-rich-pin.png)&lt;/p&gt;
+</description>
+      <pubDate>Mon, 21 Oct 2013 00:00:00 -0700</pubDate>
+      <dc:date>2013-10-21T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Twitter Card Support</title>
+      <link>http://blog.foryogi.com/2013/10/04/twitter-card-support.html</link>
+      <description>
+&lt;p&gt;&lt;strong&gt;Update 1&lt;/strong&gt; October 4, 2013 - &lt;a href=&quot;#sitesupport&quot;&gt;Site-wide support for Twitter Card&lt;/a&gt;.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 04 Oct 2013 00:00:00 -0700</pubDate>
+      <dc:date>2013-10-04T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Meditation In Noise</title>
+      <link>http://blog.foryogi.com/2013/09/17/meditating-in-noise.html</link>
+      <description>
+&lt;p&gt;I met Daniel Li Ox of the &lt;a href=&quot;http://wanderingdao.com/team/teachers/daniel-li-ox/&quot;&gt;Wanderingdao&lt;/a&gt; while visiting Yangshuo, China. We had many interesting conversations along with vegan juice and vegetarian dishes that Xifuli makes. This a story Daniel told me that I find myself keep sharing with others.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 -0700</pubDate>
+      <dc:date>2013-09-17T00:00:00-07:00</dc:date>
+    </item>
+    <dc:date>2015-06-03T00:00:00-07:00</dc:date>
+  </channel>
+</rss>
