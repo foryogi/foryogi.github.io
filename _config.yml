@@ -6,6 +6,6 @@ rss_path: feeds
 markdown: kramdown
 redcarpet:
   extensions: ["strikethrough"]
-pygments: true
+highlighter: true
 port: 5000
 exclude: ["vendor"]
